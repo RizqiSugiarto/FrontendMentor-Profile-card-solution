@@ -6,11 +6,6 @@ The solution of [Blog preview card](https://www.frontendmentor.io/challenges/blo
 
 This project is a demonstration of a simple webpage created using HTML and CSS. It includes basic styling and layout to showcase the use of these technologies.
 
-## Table of Contents
-
-- [FrontendMentor-Profile-card-solution](#project-name)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Link](#usage)
-
 ## Link
+
+[liveUrl](https://rizqisugiarto.github.io/FrontendMentor-Profile-card-solution/)
