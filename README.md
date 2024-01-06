@@ -8,4 +8,4 @@ This project is a demonstration of a simple webpage created using HTML and CSS. 
 
 ## Link
 
-[liveUrl](https://rizqisugiarto.github.io/FrontendMentor-Profile-card-solution/)
+Live Project Url [liveUrl](https://rizqisugiarto.github.io/FrontendMentor-Profile-card-solution/)
